@@ -1,0 +1,15 @@
+{
+  "name": "apidog",
+  "version": "1.0.0",
+  "description": "api veterinaria",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "watch": "nodemon main.js"
+  },
+  "author": "Alfredo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
